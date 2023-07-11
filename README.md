@@ -4,7 +4,7 @@
 - 🌱 Estudando React e Angular ...
 <div>
   <a href ="https://github.com/JaumSW"></a>
-  <img src ="https://github-readme-stats-omega-ecru.vercel.app/api?username=JaumSW&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"><br>
+  <img src ="https://github-readme-stats-omega-ecru.vercel.app/api?username=JaumSW&theme=midnight-purple&show_icons=true&include_all_commits=true"><br>
   <img src ="https://github-readme-stats-omega-ecru.vercel.app/api/top-langs/?username=JaumSW&theme=midnight-purple&show_icons=true&layout=compact">  
 </div>
 <div style="display: inline_block"><br>

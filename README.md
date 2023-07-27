@@ -16,9 +16,6 @@
 </div>
 <br>
 
-![snake gif](https://github.com/JaumSW/JaumSW/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 

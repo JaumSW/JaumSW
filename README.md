@@ -13,7 +13,6 @@
   <img align="center" alt="Jaum-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jaum-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jaum-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Jaum-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react.svg">
 </div>
 <br>
 

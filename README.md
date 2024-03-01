@@ -32,11 +32,11 @@
 # Git Status
 <p align="center">
   <a href="https://github.com/jaumsw">
-    <img width="auto" height="220" src="https://github-readme-stats-omega-ecru.vercel.app/api?username=JaumSW&theme=midnight-purple&show_icons=true&include_all_commits=true" />
+    <img width="auto" height="220" src="https://github-readme-stats.vercel.app/api?username=JaumSW&theme=midnight-purple&show_icons=true&include_all_commits=true" />
   </a>
   <br>
   <a href="https://github.com/jaumsw">
-  <img width="350" height="250" src="https://github-readme-stats-omega-ecru.vercel.app/api/top-langs/?username=jaumsw&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&border_color=731DD5&title_color=ffff&icon_color=731DD5&layout=compact" />
+  <img width="350" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaumsw&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&border_color=731DD5&title_color=ffff&icon_color=731DD5&layout=compact" />
 </a>
   <a href="https://github.com/jaumsw">
     <img width="350" height="225" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaumsw&theme=midnight_purple" />

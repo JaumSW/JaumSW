@@ -32,7 +32,7 @@
 # Git Status
 <p align="center">
   <a href="https://github.com/jaumsw">
-    <img width="auto" height="220" src="https://github-readme-stats.vercel.app/api?username=JaumSW&theme=midnight-purple&show_icons=true&include_all_commits=true" />
+    <img width="auto" height="220" src="https://github-readme-stats.vercel.app/api?username=JaumSW&theme=midnight-purple&show_icons=true" />
   </a>
   <br>
   <a href="https://github.com/jaumsw">

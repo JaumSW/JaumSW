@@ -23,7 +23,10 @@
 # Habilidades
 ![JavaScript](https://img.shields.io/badge/javascript-731DD5.svg?style=for-the-badge&logo=javascript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/typescript-731DD5.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-731DD5?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-731DD5?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-731DD5?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-731DD5?&style=for-the-badge&logo=axios&logoColor=white)
 ![React](https://img.shields.io/badge/react-731DD5.svg?style=for-the-badge&logo=react&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-731DD5?style=for-the-badge&logo=python&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/css3-731DD5.svg?style=for-the-badge&logo=css3&logoColor=white)
